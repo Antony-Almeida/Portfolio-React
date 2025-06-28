@@ -1,13 +1,13 @@
 {
-	"name": "reactfolio",
+	"homepage": "https://Antony-Almeida.github.io/Portfolio-React",
+	"name": "portfolio",
 	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
+	"description": "Portflio adaptado de HTML para REACT, projeto da disciplina de Tec. Des. Interface Gráfica",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Antony Luka Silva Batista Almeida",
+		"email": "antony.almeida@aluno.uepb.edu.br",
+		"url": "https://github.com/Antony-Almeida"
 	},
-	"license": "MIT",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
